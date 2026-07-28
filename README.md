@@ -1,51 +1,47 @@
 # Portafolio de Proyectos de Datos
 
-Bienvenido a mi portafolio de proyectos de análisis de datos y aprendizaje automático.
+Repositorio que reúne proyectos de análisis de datos y aprendizaje automático desarrollados con datos reales. Cada proyecto aborda un problema distinto y sigue un flujo de trabajo completo, desde la preparación de los datos hasta la obtención de conclusiones o modelos predictivos.
 
-Este repositorio reúne proyectos desarrollados con datos reales, cada uno orientado a resolver un problema específico mediante un flujo de trabajo completo: obtención y preparación de datos, análisis exploratorio, modelado, evaluación y comunicación de resultados.
-
-El objetivo de este portafolio es demostrar habilidades técnicas, capacidad analítica y buenas prácticas de desarrollo, priorizando proyectos reproducibles, bien documentados y con aplicaciones prácticas.
+El objetivo de este portafolio es demostrar habilidades técnicas, capacidad analítica y buenas prácticas de desarrollo mediante proyectos reproducibles, documentados y orientados a aplicaciones reales.
 
 ---
 
 ## Tecnologías
 
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- SQL
-- Power BI
-- Git
-- Jupyter Notebook
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![Power%20BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## Proyectos
 
-| Proyecto | Descripción | Estado |
-|----------|-------------|--------|
-| Fruit Pricing | Análisis exploratorio y modelado predictivo de precios históricos de frutas en Chile. | 🚧 En desarrollo |
-
-*Nuevos proyectos serán incorporados periódicamente.*
-
----
-
-## Estructura
-
-Cada proyecto se desarrolla de manera independiente e incluye, cuando corresponde:
-
-- Documentación del problema
-- Limpieza y preparación de datos
-- Análisis exploratorio (EDA)
-- Ingeniería de características
-- Modelos de Machine Learning
-- Evaluación de resultados
-- Visualizaciones y conclusiones
+| Proyecto | Dataset | Técnicas | Estado |
+|----------|---------|----------|:------:|
+| **Fruit Pricing** | ODEPA | EDA, Feature Engineering, Modelos de Regresión | 🚧 |
+| *(Próximamente)* | - | - | ⏳ |
 
 ---
 
-## Contacto
+## Estructura de los proyectos
 
-- email: arenasj.ti@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/joaqu%C3%ADn-arenas-flores-6559b3200/)
+Cada proyecto incluye, cuando corresponde:
+
+- Definición del problema.
+- Descripción del conjunto de datos.
+- Limpieza y preprocesamiento.
+- Análisis exploratorio (EDA).
+- Ingeniería de características.
+- Entrenamiento y evaluación de modelos.
+- Visualizaciones.
+- Conclusiones.
+
+---
+
+## Sobre este portafolio
+
+Los proyectos se desarrollan de forma incremental y buscan reflejar prácticas utilizadas en entornos profesionales de análisis de datos. Se prioriza la claridad del código, la reproducibilidad y la documentación por sobre la cantidad de proyectos publicados.
