@@ -1,13 +1,12 @@
-# Portafolio de Proyectos de Ciencia de Datos
+# Portafolio de Proyectos de Datos
 
-Este repositorio reúne proyectos de análisis de datos y aprendizaje automático desarrollados con datos reales. Cada proyecto busca replicar un flujo de trabajo utilizado en entornos profesionales, desde la obtención y preparación de los datos hasta el análisis, modelado y comunicación de resultados.
+Bienvenido a mi portafolio de proyectos de análisis de datos y aprendizaje automático.
 
-## Objetivos
+Este repositorio reúne proyectos desarrollados con datos reales, cada uno orientado a resolver un problema específico mediante un flujo de trabajo completo: obtención y preparación de datos, análisis exploratorio, modelado, evaluación y comunicación de resultados.
 
-- Aplicar técnicas de análisis de datos a problemas reales.
-- Desarrollar modelos predictivos cuando corresponda.
-- Mantener proyectos reproducibles y bien documentados.
-- Mostrar buenas prácticas en organización de código y uso de Git.
+El objetivo de este portafolio es demostrar habilidades técnicas, capacidad analítica y buenas prácticas de desarrollo, priorizando proyectos reproducibles, bien documentados y con aplicaciones prácticas.
+
+---
 
 ## Tecnologías
 
@@ -15,15 +14,38 @@ Este repositorio reúne proyectos de análisis de datos y aprendizaje automátic
 - Pandas
 - NumPy
 - Scikit-learn
-- Matplotlib
 - SQL
 - Power BI
 - Git
+- Jupyter Notebook
+
+---
 
 ## Proyectos
 
 | Proyecto | Descripción | Estado |
 |----------|-------------|--------|
-| Fruit Pricing | Análisis y modelado de precios históricos de frutas en Chile. | En desarrollo |
+| Fruit Pricing | Análisis exploratorio y modelado predictivo de precios históricos de frutas en Chile. | 🚧 En desarrollo |
 
-> Cada proyecto contiene su propio README con información detallada sobre el problema, los datos utilizados, la metodología aplicada y los resultados obtenidos.
+*Nuevos proyectos serán incorporados periódicamente.*
+
+---
+
+## Estructura
+
+Cada proyecto se desarrolla de manera independiente e incluye, cuando corresponde:
+
+- Documentación del problema
+- Limpieza y preparación de datos
+- Análisis exploratorio (EDA)
+- Ingeniería de características
+- Modelos de Machine Learning
+- Evaluación de resultados
+- Visualizaciones y conclusiones
+
+---
+
+## Contacto
+
+- email: arenasj.ti@gmail.com
+- LinkedIn: [*(agregar enlace)*](https://www.linkedin.com/in/joaqu%C3%ADn-arenas-flores-6559b3200/)
