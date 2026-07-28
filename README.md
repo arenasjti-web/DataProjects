@@ -48,4 +48,4 @@ Cada proyecto se desarrolla de manera independiente e incluye, cuando correspond
 ## Contacto
 
 - email: arenasj.ti@gmail.com
-- LinkedIn: [*(agregar enlace)*](https://www.linkedin.com/in/joaqu%C3%ADn-arenas-flores-6559b3200/)
+- LinkedIn: [*enlace*](https://www.linkedin.com/in/joaqu%C3%ADn-arenas-flores-6559b3200/)
