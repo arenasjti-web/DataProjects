@@ -15,14 +15,17 @@ El objetivo de este portafolio es demostrar habilidades técnicas, capacidad ana
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 ![Power%20BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+![Beautiful Soup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge)
+![Requests](https://img.shields.io/badge/Requests-2CA5E0?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ---
 
 ## Proyectos
 
 | Proyecto | Dataset | Técnicas | Estado |
 |----------|---------|----------|:------:|
-| **Fruit Pricing** | ODEPA | EDA, Feature Engineering, Modelos de Regresión | 🚧 |
+| **Fruit Pricing** | ODEPA, Open-Meteo | EDA, Feature Engineering, Regresión, Validación Cruzada | ✅ Completado |
+| **RAM Price Tracker** | PC Factory, SPDigital | Web Scraping, Automatización, Análisis de Precios | 🚧 En desarrollo |
 | *(Próximamente)* | - | - | ⏳ |
 
 ---
